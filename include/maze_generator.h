@@ -6,8 +6,8 @@
 #include<time.h>
 #include"stack.h"
 
-int N  ;
-int M  ;
+extern int N;
+extern int M;
 
 
 

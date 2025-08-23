@@ -1,5 +1,9 @@
 #include"Affichage_SDL.h"
 
+// Define global variables N and M
+int N;
+int M;
+
 int cotes[3]={32,16,8}; //cote d'une cellule de labyrinthe
 char* sols[3]={"images/sol32.bmp","images/sol16.bmp","images/sol08.bmp"};
 char* objets[3]={"images/yellowball32.png","images/yellowball16.png","images/yellowball08.png"};
