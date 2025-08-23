@@ -282,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ```
 MIT License
 
-Copyright (c) 2025 HamzaBenyazid and Mohammed Bekraoui
+Copyright (c) 2025 Hamza Ben Yazid and Mohammed Bekraoui
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -312,13 +312,12 @@ SOFTWARE.
 ## 📞 Support & Contact
 
 - **GitHub Issues**: [Report bugs or request features](https://github.com/HamzaBenyazid/labyrinth/issues)
-- **Email**: [contact@example.com](mailto:contact@example.com)
-- **Documentation**: Additional documentation available in the `docs/` directory
-
+- **Email**: [hamzabyazid@gmail.com](mailto:hamzabyazid@gmail.com)
 ---
 
 **Made with ❤️ by @HamzaBenyazid and @meedbek**
 
 *Happy maze solving! 🎮✨*
+
 
 
